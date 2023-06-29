@@ -1,0 +1,79 @@
+/data/amisdev/CCR_Allocation/vijay_devp
+stop
+stop
+stop
+stop
+stop
+stop
+/data/amisdev/CCR_Allocation/vijay_devp
+lders in archive 
+Zipping grade files in archive 
+Current directory:/data/amisdev/CCR_Allocation/vijay_devp
+Deleting Old files in Outbox
+Deleting Old folders in Outbox
+----------------------------------------------------------------------------
+---------------------LOGIC FOR RESULTS FILES in ARCHIVE DIRECTORY---------------------
+----------------------------------------------------------------------------
+CURRENT_TIMESTAMP: 20151222 
+Temp: 20151219 Result files created before this date will only be zipped
+----------------------------------------------------------------------------
+----------------------------------Entering the for loop-----------------------
+-----------------Here I will zip the result files which starts with art* and are older then 2 days -----------------------
+-----------------Will go for five iterations only  since it is a weekly job-----------------------
+----------------- --------------- --------------- -----------------------
+Current directory:/data/amisdev/CCR_Allocation/vijay_devp/Archive
+Searching all files which were modiefied in bw Start time: 201512190000 and  End Time : 201512192359  
+Searching all files which were modiefied in bw Start time: 201512190000 and  End Time : 201512192359 ::- 
+/data/amisdev/CCR_Allocation/vijay_devp/Archive/stop
+------end of this search--
+Making a tar of searched files to 20151219.tar and also deleting  the original files 
+Making a Zip of searched files to 20151219.zip 
+updating: 20151219.tar (deflated 99%)
+Deleting the original tar 20151219.zip 
+----------------------------------------------------------------------------
+Searching all files which were modiefied in bw Start time: 201512180000 and  End Time : 201512182359  
+Searching all files which were modiefied in bw Start time: 201512180000 and  End Time : 201512182359 ::- 
+/data/amisdev/CCR_Allocation/vijay_devp/Archive/stop
+------end of this search--
+Making a tar of searched files to 20151218.tar and also deleting  the original files 
+Making a Zip of searched files to 20151218.zip 
+updating: 20151218.tar (deflated 99%)
+Deleting the original tar 20151218.zip 
+----------------------------------------------------------------------------
+Searching all files which were modiefied in bw Start time: 201512170000 and  End Time : 201512172359  
+Searching all files which were modiefied in bw Start time: 201512170000 and  End Time : 201512172359 ::- 
+/data/amisdev/CCR_Allocation/vijay_devp/Archive/stop
+------end of this search--
+Making a tar of searched files to 20151217.tar and also deleting  the original files 
+Making a Zip of searched files to 20151217.zip 
+updating: 20151217.tar (deflated 99%)
+Deleting the original tar 20151217.zip 
+----------------------------------------------------------------------------
+Searching all files which were modiefied in bw Start time: 201512160000 and  End Time : 201512162359  
+Searching all files which were modiefied in bw Start time: 201512160000 and  End Time : 201512162359 ::- 
+/data/amisdev/CCR_Allocation/vijay_devp/Archive/stop
+------end of this search--
+Making a tar of searched files to 20151216.tar and also deleting  the original files 
+Making a Zip of searched files to 20151216.zip 
+updating: 20151216.tar (deflated 99%)
+Deleting the original tar 20151216.zip 
+----------------------------------------------------------------------------
+Searching all files which were modiefied in bw Start time: 201512150000 and  End Time : 201512152359  
+Searching all files which were modiefied in bw Start time: 201512150000 and  End Time : 201512152359 ::- 
+/data/amisdev/CCR_Allocation/vijay_devp/Archive/stop
+------end of this search--
+Making a tar of searched files to 20151215.tar and also deleting  the original files 
+Making a Zip of searched files to 20151215.zip 
+updating: 20151215.tar (deflated 99%)
+Deleting the original tar 20151215.zip 
+----------------------------------------------------------------------------
+Searching all files which were modiefied in bw Start time: 201512140000 and  End Time : 201512142359  
+Searching all files which were modiefied in bw Start time: 201512140000 and  End Time : 201512142359 ::- 
+/data/amisdev/CCR_Allocation/vijay_devp/Archive/stop
+------end of this search--
+Making a tar of searched files to 20151214.tar and also deleting  the original files 
+Making a Zip of searched files to 20151214.zip 
+updating: 20151214.tar (deflated 99%)
+Deleting the original tar 20151214.zip 
+----------------------------------------------------------------------------
+Current directory:/data/amisdev/CCR_Allocation/vijay_devp
