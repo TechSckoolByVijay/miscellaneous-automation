@@ -1,0 +1,28 @@
+pipeline {
+  agent none
+  stages {
+    stage('build') {
+      steps {
+        echo 'crdcer'
+      }
+    }
+
+    stage('deployTest') {
+      parallel {
+        stage('deployTest') {
+          steps {
+            echo 'crecr'
+          }
+        }
+
+        stage('cfc') {
+          steps {
+            echo 'cfc'
+          }
+        }
+
+      }
+    }
+
+  }
+}

@@ -1,0 +1,1 @@
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe C:\Admin\scripts\ApacheRestart\Apache_Restart.ps1
